@@ -21,3 +21,5 @@ Whether you’re a professional, student, content creator, or language learner, 
 Try LiveSubX today — let every sound be seen, and every conversation flow without limits!
 
 LiveSubX — Turning sound into subtitles, and communication into connection.
+
+[Click to Install](https://apps.apple.com/en/app/livesubx/id6744291291?mt=12)
