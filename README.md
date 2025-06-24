@@ -2,7 +2,7 @@
 A subtitle translation software specially designed for Mac audio workflows
 
 
-LiveSubX — The All-in-One Assistant for Audio-to-Subtitle Translation on macOS
+#### LiveSubX — The All-in-One Assistant for Audio-to-Subtitle Translation on macOS
 
 Have you ever struggled to generate real-time subtitles for system audio, microphone input, or a specific app’s sound on your Mac?
 Do you wish for an effortless way to translate audio content and export subtitle transcripts with ease?
